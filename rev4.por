@@ -7,6 +7,6 @@ programa {
     escreva ("Qual e a nota do segundo aluno : " )
     leia (b)
     media = ((a * 3.5) + (b * 7.5)) / (a + b)
-    escreva ("Mídia = ", mat.arredondar (media, 5) )
+    escreva ("Media = ", mat.arredondar (media, 5) )
   }
 }
